@@ -32,14 +32,10 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 </h3>
 
 ---
-
-<h3 align="center">
-
-</h3>
-  
-<div align="center">
   
 ### 🎥 Histories
+
+<div align="center">
   
 | Date | Contents | With |
 |:---:|:---:|:---:|
@@ -60,6 +56,8 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 | 2014.03 ~ 2021.03 | 반도체 공학과 입학 및 재학중 성적장학금 4회(중 최우수 1회) | 청주대학교 | 
   
 </div>
+
+---
 
 ### More Info 
 
