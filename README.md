@@ -61,7 +61,8 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 
 ### More Info 
 
-**1994.10.09** 생, 현재 경기도 안산시 거주중, 프론트엔드 개발자 구직중 
+**1994.10.09** 생, 현재 경기도 안산시 거주중, 프론트엔드 개발자 구직중
+더 좋은 웹을 만들어 나가기 위해 노력합니다.
 
 > **portfolio**　[https://steven-yn.github.io/](https://steven-yn.github.io/)  \
 > **email** 　　 steven-yn@naver.com  \
