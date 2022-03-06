@@ -8,8 +8,7 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 
 #### 👩🏻‍💻 I’m currently Used Languages...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steven-yn&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-yn&exclude_repo=petBook&hide=jupyternotebook,java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steven-yn&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-yn&exclude_repo=petBook&hide=jupyternotebook,java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4>
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"/>
@@ -66,9 +65,9 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 
 **1994.10.09** 생, 현재 경기도 안산시 거주중, 프론트엔드 개발자 구직중 
 
-> **portfolio** [https://steven-yn.github.io/](https://steven-yn.github.io/)  \
-> **email**&nbsp;&nbsp;&nbsp;steven-yn@naver.com  \
-> **blog**&nbsp;&nbsp;&nbsp;[https://yoonocean.tistory.com/](https://yoonocean.tistory.com/)
+> **portfolio**　[https://steven-yn.github.io/](https://steven-yn.github.io/)  \
+> **email** 　　 steven-yn@naver.com  \
+> **blog**&nbsp; 　　  [https://yoonocean.tistory.com/](https://yoonocean.tistory.com/)
 > 
 > [<img src="https://img.shields.io/badge/notion-000000?logo=notion&logoColor=fff"/>](https://boulder-grouse-005.notion.site/yoonOcean-Dev-Log-fad49379d7db4a118e025b4c73f52d9d) [<img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=fff"/>](https://instagram.com/s_____yn.1009)
 
