@@ -6,9 +6,9 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 
 ---
 
-#### 👩🏻‍💻 I’m currently Used Languages...
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steven-yn&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-yn&exclude_repo=petBook&hide=jupyternotebook,java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+#### 👩🏻‍💻 I’m currently Used Languages...
 
 <h4>
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"/>
