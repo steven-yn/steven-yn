@@ -6,7 +6,7 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steven-yn&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-yn&exclude_repo=petBook&hide=jupyternotebook,java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steven-yn&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-yn&hide=jupyternotebook,java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 👩🏻‍💻 I’m currently Used Languages...
 
