@@ -14,6 +14,7 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"/>
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"/>
 <img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=fff"/>
+<img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=fff"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
 <img src="https://img.shields.io/badge/typescript-1c7ed6?style=for-the-badge&logo=typescript&logoColor=fff"/>
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=fff"/>
@@ -23,11 +24,13 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 
 <h4>
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff"/>
 <img src="https://img.shields.io/badge/react_query-FF4154?style=for-the-badge&logo=reactquery&logoColor=fff"/>
 <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff"/>
+<img src="https://img.shields.io/badge/redux_saga-999999?style=for-the-badge&logo=redux-saga&logoColor=fff"/>
 <img src="https://img.shields.io/badge/node.js-74b816?style=for-the-badge&logo=node.js&logoColor=fff"/>
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=fff"/>
-<img src="https://img.shields.io/badge/koa-33333D?style=for-the-badge&logo=koa&logoColor=fff"/>
+
 <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=fff"/>
 </h4>
 
@@ -37,8 +40,11 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/yarn_3_pnp-2C8EBB?style=for-the-badge&logo=yarn&logoColor=fff"/>
 <img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=000"/>
 <img src="https://img.shields.io/badge/babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=000"/>
+<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff"/>
 <img src="https://img.shields.io/badge/aws_ec2-FF9900?style=for-the-badge&logo=awsamplify&logoColor=fff"/>
-<img src="https://img.shields.io/badge/heroku-986CDE?style=for-the-badge&logo=heroku&logoColor=fff"/>
+<!--
+<img src="https://img.shields.io/badge/aws_s3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=fff"/>
+<img src="https://img.shields.io/badge/aws_lambda-232F3E?style=for-the-badge&logo=awslambda&logoColor=fff"/>-->
 </h4>
 
 ---
