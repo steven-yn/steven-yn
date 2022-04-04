@@ -49,6 +49,7 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
   
 | Date | Contents | With |
 |:---:|:---:|:---:|
+| 2022.04 | (현재) (주)다이닝코드 웹 프론트엔드 개발자 | DiningCode |
 | 2022.03 | 아이겐코리아 프론트엔드 과제전형 Naver Open API 차트 App (합격) | Eigene Korea 과제전형 |
 | 2022.03 | 다이닝코드 프론트엔드 과제전형 Swipe 구현 (합격) | Dining Code 과제전형 |
 | 2022.02 (진행중) | petBook 프로젝트 프론트엔드 개발 | PSG - petBook project |
