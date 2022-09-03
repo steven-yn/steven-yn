@@ -5,8 +5,9 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 </h3>
 
 ---
-
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steven-yn&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-yn&hide=jupyternotebook,java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 #### 👩🏻‍💻 I’m currently Used Languages...
 
