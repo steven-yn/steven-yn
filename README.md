@@ -20,7 +20,7 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/typescript-1c7ed6?style=for-the-badge&logo=typescript&logoColor=fff"/>
 </h4>
 
-#### 🛠 I’m currently Used Libraries & Frameworks...
+#### 🛠 I’m currently Used Skills...
 
 <h4>
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
@@ -31,7 +31,7 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/node.js-74b816?style=for-the-badge&logo=node.js&logoColor=fff"/>
 </h4>
 
-#### 📚 I’m currently Used Stacks...
+#### 📚 I’m currently Used More...
 
 <h4>
 <img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=000"/>
