@@ -85,8 +85,7 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 > **blog**&nbsp;&nbsp; 　　  [https://yoonocean.tistory.com/](https://yoonocean.tistory.com/)
 > 
 > [<img src="https://img.shields.io/badge/notion-000000?logo=notion&logoColor=fff"/>](https://yoon0cean.notion.site/yoonOcean-Dev-Log-fad49379d7db4a118e025b4c73f52d9d) [<img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=fff"/>](https://instagram.com/s_____yn.1009)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steven-yn&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=steven-yn&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dus1009)](https://solved.ac/dus1009/)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-yn&hide=jupyternotebook,java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
