@@ -16,6 +16,7 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/recoil-0067A3?style=for-the-badge&logo=recoil&logoColor=fff"/>
 <br><br>
 <img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=000"/>
+<img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff"/>
 <img src="https://img.shields.io/badge/babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=000"/>
 <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=fff"/>
 <br><br>
@@ -27,6 +28,7 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <br><br>
 <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff"/>
 <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff"/>
+<img src="https://img.shields.io/badge/github_action-2088FF?style=for-the-badge&logo=github_action&logoColor=fff"/>
 </h4>
 
 #### 🛠 사용해본 Skill & Stack
@@ -38,7 +40,6 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/aws_ec2-FF9900?style=for-the-badge&logo=awsamplify&logoColor=fff"/>
 <img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=fff"/>
 <img src="https://img.shields.io/badge/koyep-121212?style=for-the-badge&logo=koyep&logoColor=fff"/>
-<img src="https://img.shields.io/badge/github_action-2088FF?style=for-the-badge&logo=github_action&logoColor=fff"/>
 <br><br>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=fff"/>
 </h4>
@@ -50,7 +51,6 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff"/>
 <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=fff"/>
 <img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=fff"/>
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=fff"/>
 </h4>
 
@@ -62,13 +62,16 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
   
 | Date | Contents | With |
 |:---:|:---:|:---:|
-| 2022.05 (진행중) | petBook 프로젝트 프론트엔드 개발, 팀 리더 | K-Slave - petBook |
-| 2022.04 | (현재) 다이닝코드 웹 프론트엔드 개발자 | DiningCode |
-| 2022.01 ~ 2022.02 | 바닐라 자바스크립트 를 사용한 SPA 게시판 개발 | ZUM Internet 과제전형 |
-| 2022.01 | Hyades 프로젝트 프론트엔드 개발 (FE Team Leader) | PSG - Hyades project |
-| 2021.07 ~ 2022.11 | 파이썬과 R을 활용한 빅데이터 UI 개발자 과정 수료 (국비지원) | 안산 이젠컴퓨터아카데미 |
-| 2021.02 ~ 2022.05 | HW FPGA 개발자 | Neo Health Technology |
-| 2014.03 ~ 2021.03 | 반도체 공학과 학사 졸업 | 청주대학교 |
+| 23.04 | React-Bubblytip | 개인 프로젝트 |
+| 23.04 | 프론트엔드 여행자를 위한 리액트 해부학 | wanted 프리온보딩 4월 - 강병진 |
+| 23.03 | 로그인 기능 구현, 하나부터 열까지! | wanted 프리온보딩 3월 - 신성환 |
+| 22.05 | (현재) petBook 프로젝트 프론트엔드 개발, 팀 리더 | K-Slave - petBook |
+| 22.04 | (현재) 다이닝코드 웹 프론트엔드 개발자 | DiningCode |
+| 22.01 ~ 22.02 | 바닐라 자바스크립트 를 사용한 SPA 게시판 개발 | ZUM Internet 과제전형 |
+| 22.01 | Hyades 프로젝트 프론트엔드 개발 (FE Team Leader) | PSG - Hyades project |
+| 21.07 ~ 22.11 | 파이썬과 R을 활용한 빅데이터 UI 개발자 과정 수료 (국비지원) | 안산 이젠컴퓨터아카데미 |
+| 21.02 ~ 21.04 | HW FPGA 개발자 | Neo Health Technology |
+| 14.03 ~ 21.03 | 반도체 공학과 학사 졸업 | 청주대학교 |
   
 </div>
 
