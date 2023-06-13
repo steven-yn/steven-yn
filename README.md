@@ -21,19 +21,20 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=fff"/>
 <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=fff"/>
+<img src="https://img.shields.io/badge/github_action-2088FF?style=for-the-badge&logo=github_action&logoColor=fff"/>
+<img src="https://img.shields.io/badge/node.js-74b816?style=for-the-badge&logo=node.js&logoColor=fff"/>
 <br><br>
 <img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=fff"/>
 <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=fff"/>
 <br><br>
-<img src="https://img.shields.io/badge/node.js-74b816?style=for-the-badge&logo=node.js&logoColor=fff"/>
-<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=fff"/>
+<!-- <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=fff"/> -->
 <br><br>
-<img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff"/>
+<!-- <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff"/>
 <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff"/>
-<img src="https://img.shields.io/badge/koyep-121212?style=for-the-badge&logo=koyep&logoColor=fff"/>
-<img src="https://img.shields.io/badge/github_action-2088FF?style=for-the-badge&logo=github_action&logoColor=fff"/>
-</h4>
+<img src="https://img.shields.io/badge/koyep-121212?style=for-the-badge&logo=koyep&logoColor=fff"/> -->
 
+</h4>
+<!-- 
 #### 🛠 사용해본 Skill & Stack
 
 <h4>
@@ -45,19 +46,20 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
   <img src="https://img.shields.io/badge/aws_ec2-FF9900?style=for-the-badge&logo=awsamplify&logoColor=fff"/>
   <img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=fff"/>
 <br><br>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=fff">
 <br><br>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=fff"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=fff">
 </h4>
-
+ -->
 #### 📚 최근 관심 Skill & Stack
 
 <h4>
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=fff" />
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff"/>
 <img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=fff">
+  
 </h4>
 
 ---
