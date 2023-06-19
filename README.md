@@ -66,13 +66,12 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 ---
   
 ### 🎥 Histories
-
+<!-- | 23.06 | Dear-My-Univerest | 개인 프로젝트 | -->
 <div align="center">
   
 | Date | Contents | With |
 |:---:|:---:|:---:|
 | 23.06 | 스토리북과 함께하는 컴포넌트 주도 개발 | wanted 프리온보딩 6월 - 장현석 |
-| 23.06 | Dear-My-Univerest | 개인 프로젝트 |
 | 23.04 | React-Bubblytip | 개인 프로젝트 |
 | 23.04 | 프론트엔드 여행자를 위한 리액트 해부학 | wanted 프리온보딩 4월 - 강병진 |
 | 23.03 | 로그인 기능 구현, 하나부터 열까지! | wanted 프리온보딩 3월 - 신성환 |
