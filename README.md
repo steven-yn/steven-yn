@@ -14,6 +14,7 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff"/>
 <img src="https://img.shields.io/badge/react_query-FF4154?style=for-the-badge&logo=reactquery&logoColor=fff"/>
 <img src="https://img.shields.io/badge/recoil-0067A3?style=for-the-badge&logo=recoil&logoColor=fff"/>
+<img src="https://img.shields.io/badge/zustand-D9411E?style=for-the-badge&logo=zustand&logoColor=fff"/>
 <br><br>
 <img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=000"/>
 <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff"/>
@@ -71,12 +72,13 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
   
 | Date | Contents | With |
 |:---:|:---:|:---:|
+| 23.07 | 구름톤 in Jeju 6기 (우수상) | Kakao X 9oorm |
 | 23.06 | 스토리북과 함께하는 컴포넌트 주도 개발 | wanted 프리온보딩 6월 - 장현석 |
 | 23.04 | React-Bubblytip | 개인 프로젝트 |
 | 23.04 | 프론트엔드 여행자를 위한 리액트 해부학 | wanted 프리온보딩 4월 - 강병진 |
 | 23.03 | 로그인 기능 구현, 하나부터 열까지! | wanted 프리온보딩 3월 - 신성환 |
 | 22.05 | (현재) petBook 프로젝트 프론트엔드 개발, 팀 리더 | K-Slave - petBook |
-| 22.04 | (현재) 다이닝코드 웹 프론트엔드 개발자 | DiningCode |
+| 22.04 | 다이닝코드 웹 프론트엔드 개발자 | DiningCode |
 | 22.01 ~ 22.02 | 바닐라 자바스크립트 를 사용한 SPA 게시판 개발 | ZUM Internet 과제전형 |
 | 22.01 | Hyades 프로젝트 프론트엔드 개발 (FE Team Leader) | PSG - Hyades project |
 | 21.07 ~ 22.11 | 파이썬과 R을 활용한 빅데이터 UI 개발자 과정 수료 (국비지원) | 안산 이젠컴퓨터아카데미 |
