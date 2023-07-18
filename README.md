@@ -16,13 +16,13 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/recoil-0067A3?style=for-the-badge&logo=recoil&logoColor=fff"/>
 <img src="https://img.shields.io/badge/zustand-D9411E?style=for-the-badge&logo=zustand&logoColor=fff"/>
 <br><br>
+<img src="https://img.shields.io/badge/node.js-74b816?style=for-the-badge&logo=node.js&logoColor=fff"/>
 <img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=000"/>
 <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff"/>
-<img src="https://img.shields.io/badge/babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=000"/>
+<!-- <img src="https://img.shields.io/badge/babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=000"/> -->
 <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=fff"/>
 <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=fff"/>
-<img src="https://img.shields.io/badge/node.js-74b816?style=for-the-badge&logo=node.js&logoColor=fff"/>
 <img src="https://img.shields.io/badge/github_action-2088FF?style=for-the-badge&logo=github_action&logoColor=fff"/>
 <br><br>
 <img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=fff"/>
@@ -40,8 +40,7 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 
 <h4>
   <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/swc-ffffff?style=for-the-badge&logo=swc&logoColor=000"/>
+<!--   <img src="https://img.shields.io/badge/swc-ffffff?style=for-the-badge&logo=swc&logoColor=000"/> -->
 <br><br>
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff"/>
   <img src="https://img.shields.io/badge/aws_ec2-FF9900?style=for-the-badge&logo=awsamplify&logoColor=fff"/>
@@ -56,11 +55,12 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 #### 📚 최근 관심 Skill & Stack
 
 <h4>
+<img src="https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=fff" />
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff"/>
 <img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=fff">
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=fff"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=fff">
   
 </h4>
 
