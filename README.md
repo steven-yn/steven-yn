@@ -40,13 +40,10 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 
 <h4>
   <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff"/>
-<!--   <img src="https://img.shields.io/badge/swc-ffffff?style=for-the-badge&logo=swc&logoColor=000"/> -->
-<br><br>
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff"/>
   <img src="https://img.shields.io/badge/aws_ec2-FF9900?style=for-the-badge&logo=awsamplify&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/swc-ffffff?style=for-the-badge&logo=swc&logoColor=000"/>
   <img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=fff"/>
-<br><br>
-<br><br>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=fff"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=fff">
 </h4>
@@ -61,7 +58,6 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=fff"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=fff"/>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=fff">
-  
 </h4>
 
 ---
