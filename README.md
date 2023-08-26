@@ -68,7 +68,7 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
   
 | Date | Contents | With |
 |:---:|:---:|:---:|
-| 23.08 | react-world 스터디 (pagers) | 29cm 소인성 님 |
+| 23.08 | real-world 스터디 | 29cm 소인성 님 |
 | 23.07 | 구름톤 in Jeju 6기 (우수상) | Kakao X Goorm |
 | 23.06 | 스토리북과 함께하는 컴포넌트 주도 개발 | wanted 프리온보딩 6월 - 장현석 |
 | 23.04 | React-Bubblytip | 개인 프로젝트 |
