@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:66d9e8,100:eebefa&height=350&section=header&text=yoonOcean's%20GitHub&animation=twinkling&fontSize=50&fontColor=ffffff&fontAlignY=41&desc=Web%20Front%20End%20Developer&rotate=0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:66d9e8,100:eebefa&height=350&section=header&text=yoonOcean's%20GitHub&animation=twinkling&fontSize=50&fontColor=ffffff&fontAlignY=41&desc=Software%20Engineer&rotate=0)
 
 <h3 align="center">
 Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsteven-yn&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
@@ -68,6 +68,8 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
   
 | Date | Contents | With |
 |:---:|:---:|:---:|
+| 24.01 | 데이터메이커 프론트엔드 파트 Software 개발 주임연구원 | Datamaker |
+| 23.08 | 2023 INFCON Offline Session Visit | Inflearn |
 | 23.07 | 구름톤 in Jeju 6기 (우수상) | Kakao X Goorm |
 | 23.06 | 스토리북과 함께하는 컴포넌트 주도 개발 | wanted 프리온보딩 6월 - 장현석 |
 | 23.04 | React-Bubblytip | 개인 프로젝트 |
