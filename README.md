@@ -68,7 +68,7 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
   
 | Date | Contents | With |
 |:---:|:---:|:---:|
-| 24.01 | 데이터메이커 프론트엔드 파트 Software 개발 주임연구원 | Datamaker |
+| 24.01 | 데이터메이커 연구개발팀 프론트엔드 파트 소프트웨어 개발 주임연구원 | Datamaker |
 | 23.08 | 2023 INFCON Offline Session Visit | Inflearn |
 | 23.07 | 구름톤 in Jeju 6기 (우수상) | Kakao X Goorm |
 | 23.06 | 스토리북과 함께하는 컴포넌트 주도 개발 | wanted 프리온보딩 6월 - 장현석 |
