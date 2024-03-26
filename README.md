@@ -52,7 +52,7 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/PNPM_Monorepo-F69220?style=for-the-badge&logo=pnpm&logoColor=fff"/>
 <br>
 
-#### Documentation & test
+#### Documentation & Test
 
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=fff"/>
@@ -68,13 +68,13 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=fff"/>
 <br>
 
-#### Backend & Database
+#### Server & Database
 
+<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Node.js-74b816?style=for-the-badge&logo=node.js&logoColor=fff"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=fff"/>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=fff">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=fff">
-<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff"/>
 </div>
 <!-- 
 #### 🛠 사용해본 Skill & Stack
