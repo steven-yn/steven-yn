@@ -6,59 +6,90 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 
 ---
 
-#### 👩🏻‍💻 주 사용 Skill & Stack
+### 👩🏻‍💻 Main Skill & Stack
 
-<h4>
+<div>
+  
+#### Language & Framework
+
 <img src="https://img.shields.io/badge/typescript-1c7ed6?style=for-the-badge&logo=typescript&logoColor=fff"/>
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff"/>
-<img src="https://img.shields.io/badge/react_query-FF4154?style=for-the-badge&logo=reactquery&logoColor=fff"/>
-<img src="https://img.shields.io/badge/recoil-0067A3?style=for-the-badge&logo=recoil&logoColor=fff"/>
-<img src="https://img.shields.io/badge/zustand-D9411E?style=for-the-badge&logo=zustand&logoColor=fff"/>
-<br><br>
-<img src="https://img.shields.io/badge/node.js-74b816?style=for-the-badge&logo=node.js&logoColor=fff"/>
-<img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=000"/>
-<img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff"/>
-<!-- <img src="https://img.shields.io/badge/babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=000"/> -->
-<img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=fff"/>
-<img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=fff"/>
-<img src="https://img.shields.io/badge/github_action-2088FF?style=for-the-badge&logo=github_action&logoColor=fff"/>
-<br><br>
-<img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=fff"/>
-<img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=fff"/>
-<br><br>
-<!-- <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=fff"/> -->
-<br><br>
-<!-- <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff"/>
-<img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff"/>
-<img src="https://img.shields.io/badge/koyep-121212?style=for-the-badge&logo=koyep&logoColor=fff"/> -->
+<img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff"/>
+<img src="https://img.shields.io/badge/nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=fff"/>
+<br>
 
-</h4>
+#### State Management
+
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Recoil-0067A3?style=for-the-badge&logo=recoil&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Zustand-D9411E?style=for-the-badge&logo=zustand&logoColor=fff"/>
+<img src="https://img.shields.io/badge/apollo_client-311C87?style=for-the-badge&logo=apollographql&logoColor=fff"/>
+<img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff"/>
+<br>
+
+#### UI Framework & Library
+
+<img src="https://img.shields.io/badge/shadcn_ui-000000?style=for-the-badge&logo=shadcnui&logoColor=fff"/>
+<img src="https://img.shields.io/badge/formkit-000000?style=for-the-badge&logo=formkit&logoColor=fff"/>
+<img src="https://img.shields.io/badge/chakra_ui-319795?style=for-the-badge&logo=chakraui&logoColor=fff"/>
+<img src="https://img.shields.io/badge/react_hook_form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=fff"/>
+<br>
+
+#### Style
+
+<img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=fff"/>
+<img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=fff"/>
+<img src="https://img.shields.io/badge/emotion-DB7093?style=for-the-badge&logo=emotion&logoColor=fff"/>
+<img src="https://img.shields.io/badge/vanilla_extract-DB7093?style=for-the-badge&logo=vanilla-extract&logoColor=fff"/>
+<img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff"/>
+<br>
+
+#### Bundler & Package Manager
+
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=000"/>
+<img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff"/>
+<img src="https://img.shields.io/badge/PNPM_Monorepo-F69220?style=for-the-badge&logo=pnpm&logoColor=fff"/>
+<br>
+
+#### Documentation & test
+
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=fff"/>
+<br>
+
+#### CI / CD & Cloud Service
+
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Koyep-121212?style=for-the-badge&logo=koyep&logoColor=fff"/>
+<img src="https://img.shields.io/badge/gcp-4285F4?style=for-the-badge&logo=googlecloud&logoColor=fff"/>
+<img src="https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=fff"/>
+<br>
+
+#### Backend & Database
+
+<img src="https://img.shields.io/badge/Node.js-74b816?style=for-the-badge&logo=node.js&logoColor=fff"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=fff"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=fff">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=fff">
+<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff"/>
+</div>
 <!-- 
 #### 🛠 사용해본 Skill & Stack
 
 <h4>
-  <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff"/>
   <img src="https://img.shields.io/badge/aws_ec2-FF9900?style=for-the-badge&logo=awsamplify&logoColor=fff"/>
   <img src="https://img.shields.io/badge/swc-ffffff?style=for-the-badge&logo=swc&logoColor=000"/>
   <img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=fff"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=fff">
-</h4>
- -->
- 
-#### 📚 최근 관심 Skill & Stack
-
-<h4>
+<img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=fff"/>
+<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff"/>
 <img src="https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=fff" />
-<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff"/>
-<img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=fff"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=fff"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=fff">
 </h4>
+ -->
 
 ---
   
