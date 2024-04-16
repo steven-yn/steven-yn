@@ -31,7 +31,6 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 #### UI Framework & Library
 
 <img src="https://img.shields.io/badge/shadcn_ui-000000?style=for-the-badge&logo=shadcnui&logoColor=fff"/>
-<img src="https://img.shields.io/badge/formkit-000000?style=for-the-badge&logo=formkit&logoColor=fff"/>
 <img src="https://img.shields.io/badge/chakra_ui-319795?style=for-the-badge&logo=chakraui&logoColor=fff"/>
 <img src="https://img.shields.io/badge/react_hook_form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=fff"/>
 <br>
