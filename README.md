@@ -90,6 +90,14 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=fff" />
 </h4>
 
+### 🌟 Open Source Contribution
+- https://github.com/toss/frontend-fundamentals/pull/61
+
+### 💡 Projects
+
+<!-- > **petBook** &nbsp; https://petbook.site/ \ -->
+> **OceanVue** &nbsp; https://oceanvue-steven-yn.koyeb.app/
+
 ### 🎥 Histories
 <!-- | 23.06 | Dear-My-Univerest | 개인 프로젝트 | -->
 <!-- | 23.06 | 스토리북과 함께하는 컴포넌트 주도 개발 | wanted 프리온보딩 6월 - 장현석 |
@@ -113,14 +121,6 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 | 21.02 ~ 21.04 | HW FPGA 개발자 | Neo Health Technology |
   
 </div>
-
-### 🌟 Open Source Contribution
-- https://github.com/toss/frontend-fundamentals/pull/61
-
-### 💡 Projects
-
-<!-- > **petBook** &nbsp; https://petbook.site/ \ -->
-> **OceanVue** &nbsp; https://oceanvue-steven-yn.koyeb.app/
 
 ### 🔖 More
 
