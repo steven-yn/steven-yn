@@ -49,7 +49,6 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=000"/>
 <img src="https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=fff"/>
 <img src="https://img.shields.io/badge/PNPM_Monorepo-F69220?style=flat-square&logo=pnpm&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=fff"/>
 <br>
 
 #### Documentation & Test
@@ -85,6 +84,7 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <!-- <img src="https://img.shields.io/badge/swc-ffffff?style=flat-square&logo=swc&logoColor=000"/> -->
 <!-- <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff"/> -->
 <!-- <img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=three.js&logoColor=fff"/> -->
+<img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=fff"/>
 <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=fff"/>
 <img src="https://img.shields.io/badge/svelte-FF3E00?style=flat-square&logo=svelte&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=fff" />
