@@ -16,14 +16,19 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 ### 👩🏻‍💻 Main Skill & Stack
 
 <div>
+<img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=fff"/>
+<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=fff"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=000"/>
 <img src="https://img.shields.io/badge/typescript-1c7ed6?style=flat-square&logo=typescript&logoColor=fff"/>
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=000"/>
 <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=fff"/>
 <img src="https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vue.js&logoColor=fff"/>
 <img src="https://img.shields.io/badge/nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=fff"/>
+<img src="https://img.shields.io/badge/tanstack_query-FF4154?style=flat-square&logo=reactquery&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=fff"/>
 <br>
 
-<img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=fff"/>
+<!-- 
 <img src="https://img.shields.io/badge/Recoil-0067A3?style=flat-square&logo=recoil&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Zustand-D9411E?style=flat-square&logo=zustand&logoColor=fff"/>
 <img src="https://img.shields.io/badge/apollo_client-311C87?style=flat-square&logo=apollographql&logoColor=fff"/>
@@ -48,7 +53,6 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <br>
 
 
-<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=fff"/>
 <br>
 
@@ -60,7 +64,8 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/gcp-4285F4?style=flat-square&logo=googlecloud&logoColor=fff"/>
 <img src="https://img.shields.io/badge/cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=fff"/>
 <!-- <img src="https://img.shields.io/badge/aws_ec2-FF9900?style=flat-square&logo=awsamplify&logoColor=fff"/> -->
-<!-- <img src="https://img.shields.io/badge/heroku-430098?style=flat-square&logo=heroku&logoColor=fff"/> -->
+<!-- <img src="https://img.shields.io/badge/heroku-430098?style=flat-square&logo=heroku&logoColor=fff"/> --> -->
+<!--
 <br>
 
 <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=fff"/>
@@ -73,15 +78,18 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 #### 📖 Study
 
 <h4>
+-->
 <!-- <img src="https://img.shields.io/badge/swc-ffffff?style=flat-square&logo=swc&logoColor=000"/> -->
 <!-- <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff"/> -->
 <!-- <img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=three.js&logoColor=fff"/> -->
+
+<!--
 <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=fff"/>
 <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=fff"/>
 <img src="https://img.shields.io/badge/svelte-FF3E00?style=flat-square&logo=svelte&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=fff" />
 </h4>
-
+-->
 
 ### 🎥 Histories
 <!-- | 23.06 | Dear-My-Univerest | 개인 프로젝트 | -->
