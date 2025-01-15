@@ -6,6 +6,7 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 
 ---
 
+<!-- 
 ### 👩🏻‍💻 Main Skill & Stack
 
 <div>
@@ -75,7 +76,7 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=fff">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=fff">
 </div>
-<!-- 
+
 #### 🛠 사용해본 Skill & Stack
 
 <h4>
@@ -89,11 +90,15 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=fff" />
 </h4>
  -->
-
----
   
 ### 🎥 Histories
 <!-- | 23.06 | Dear-My-Univerest | 개인 프로젝트 | -->
+<!-- | 23.06 | 스토리북과 함께하는 컴포넌트 주도 개발 | wanted 프리온보딩 6월 - 장현석 |
+| 23.04 | 프론트엔드 여행자를 위한 리액트 해부학 | wanted 프리온보딩 4월 - 강병진 |
+| 23.03 | 로그인 기능 구현, 하나부터 열까지! | wanted 프리온보딩 3월 - 신성환 |
+| 22.01 | Hyades 프로젝트 프론트엔드 개발 (FE Team Leader) | PSG - Hyades project |
+| 14.03 ~ 21.03 | 반도체 공학과 학사 졸업 | 청주대학교 | -->
+
 <div align="center">
   
 | Date | Contents | With |
@@ -101,25 +106,27 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 | 24.01 | 데이터메이커 프론트엔드 파트 주임연구원 | Datamaker |
 | 23.08 | 2023 INFCON Offline Session Visit | Inflearn |
 | 23.07 | 구름톤 in Jeju 6기 (우수상) | Kakao X Goorm |
-| 23.06 | 스토리북과 함께하는 컴포넌트 주도 개발 | wanted 프리온보딩 6월 - 장현석 |
 | 23.04 | React-Bubblytip | 개인 프로젝트 |
-| 23.04 | 프론트엔드 여행자를 위한 리액트 해부학 | wanted 프리온보딩 4월 - 강병진 |
-| 23.03 | 로그인 기능 구현, 하나부터 열까지! | wanted 프리온보딩 3월 - 신성환 |
-| 22.05 | (현재) petBook 프로젝트 프론트엔드 개발, 팀 리더 | K-Slave - petBook |
+| 22.05 | petBook 프로젝트 프론트엔드 개발, 팀 리더 | K-Slave - petBook |
 | 22.04 ~ 23.06 | 다이닝코드 웹 프론트엔드 개발자 | DiningCode |
 | 22.01 ~ 22.02 | 바닐라 자바스크립트 를 사용한 SPA 게시판 개발 | ZUM Internet 과제전형 |
-| 22.01 | Hyades 프로젝트 프론트엔드 개발 (FE Team Leader) | PSG - Hyades project |
 | 21.07 ~ 22.11 | 파이썬과 R을 활용한 빅데이터 UI 개발자 과정 수료 (국비지원) | 안산 이젠컴퓨터아카데미 |
 | 21.02 ~ 21.04 | HW FPGA 개발자 | Neo Health Technology |
-| 14.03 ~ 21.03 | 반도체 공학과 학사 졸업 | 청주대학교 |
   
 </div>
+
+### 🌟 Open Source Contribution
+- https://github.com/toss/frontend-fundamentals/pull/61
+
+### Projects
+
+<!-- > **petBook** &nbsp; https://petbook.site/ \ -->
+> **OceanVue** &nbsp; https://oceanvue-steven-yn.koyeb.app/
 
 ---
 
 ### More Info 
 
-**1994.10.09** 생, 현재 경기도 안산시 거주중, 프론트엔드 개발자 \
 새로운 것에 호기심이 많고 도전을 항상 즐깁니다.
 
 > **portfolio**　[Notion Portfolio](https://yoon0cean.notion.site/Junior-Frontend-Developer-Portfoilo-35564255600a45fc9f3e0207f2dc0ad3) \
@@ -129,10 +136,5 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=steven-yn&show_icons=true&theme=tokyonight) 
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dus1009)](https://solved.ac/dus1009/) -->
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-yn&hide=jupyternotebook,java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
-### Projects
 
-> **petBook** &nbsp; https://petbook.site/ \
-> **OceanVue** &nbsp; https://oceanvue-steven-yn.koyeb.app/
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-yn&hide=jupyternotebook,java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
