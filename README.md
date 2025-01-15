@@ -91,8 +91,6 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 | 22.01 | Hyades 프로젝트 프론트엔드 개발 (FE Team Leader) | PSG - Hyades project |
 | 14.03 ~ 21.03 | 반도체 공학과 학사 졸업 | 청주대학교 | -->
 
-<div align="center">
-  
 | Date | Contents | With |
 |:---:|:---:|:---:|
 | 24.01 | 데이터메이커 프론트엔드 파트 주임연구원 | Datamaker |
@@ -104,8 +102,6 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 | 22.01 ~ 22.02 | 바닐라 자바스크립트 를 사용한 SPA 게시판 개발 | ZUM Internet 과제전형 |
 | 21.07 ~ 22.11 | 파이썬과 R을 활용한 빅데이터 UI 개발자 과정 수료 (국비지원) | 안산 이젠컴퓨터아카데미 |
 | 21.02 ~ 21.04 | HW FPGA 개발자 | Neo Health Technology |
-  
-</div>
 
 ### 🔖 More
 
