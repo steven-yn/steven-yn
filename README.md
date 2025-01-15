@@ -7,11 +7,15 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 ---
 ### 🌟 Open Source Contribution
 - https://github.com/toss/frontend-fundamentals/pull/61
+<br>
+<br>
 
 ### 💡 Projects
 
 <!-- > **petBook** &nbsp; https://petbook.site/ \ -->
 > **OceanVue** &nbsp; https://oceanvue-steven-yn.koyeb.app/
+<br>
+<br>
 
 ### 👩🏻‍💻 Main Skill & Stack
 
@@ -26,6 +30,7 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=fff"/>
 <img src="https://img.shields.io/badge/tanstack_query-FF4154?style=flat-square&logo=reactquery&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=fff"/>
+<br>
 <br>
 
 <!-- 
@@ -64,7 +69,7 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/gcp-4285F4?style=flat-square&logo=googlecloud&logoColor=fff"/>
 <img src="https://img.shields.io/badge/cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=fff"/>
 <!-- <img src="https://img.shields.io/badge/aws_ec2-FF9900?style=flat-square&logo=awsamplify&logoColor=fff"/> -->
-<!-- <img src="https://img.shields.io/badge/heroku-430098?style=flat-square&logo=heroku&logoColor=fff"/> --> -->
+<!-- <img src="https://img.shields.io/badge/heroku-430098?style=flat-square&logo=heroku&logoColor=fff"/> -->
 <!--
 <br>
 
@@ -110,6 +115,8 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 | 22.01 ~ 22.02 | 바닐라 자바스크립트 를 사용한 SPA 게시판 개발 | ZUM Internet 과제전형 |
 | 21.07 ~ 22.11 | 파이썬과 R을 활용한 빅데이터 UI 개발자 과정 수료 (국비지원) | 안산 이젠컴퓨터아카데미 |
 | 21.02 ~ 21.04 | HW FPGA 개발자 | Neo Health Technology |
+<br>
+<br>
 
 ### 🔖 More
 
