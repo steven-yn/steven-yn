@@ -16,7 +16,7 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=000"/>
 <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=fff"/>
 <img src="https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vue.js&logoColor=fff"/>
-<img src="https://img.shields.io/badge/nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=fff"/>
+<img src="https://img.shields.io/badge/nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=fff"/>
 <br>
 
 #### State Management
