@@ -5,21 +5,23 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 </h3>
 
 ---
+### 🌟 Open Source Contribution
+- https://github.com/toss/frontend-fundamentals/pull/61
+
+### 💡 Projects
+
+<!-- > **petBook** &nbsp; https://petbook.site/ \ -->
+> **OceanVue** &nbsp; https://oceanvue-steven-yn.koyeb.app/
 
 ### 👩🏻‍💻 Main Skill & Stack
 
 <div>
-  
-#### Language & Framework
-
 <img src="https://img.shields.io/badge/typescript-1c7ed6?style=flat-square&logo=typescript&logoColor=fff"/>
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=000"/>
 <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=fff"/>
 <img src="https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vue.js&logoColor=fff"/>
 <img src="https://img.shields.io/badge/nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=fff"/>
 <br>
-
-#### State Management
 
 <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Recoil-0067A3?style=flat-square&logo=recoil&logoColor=fff"/>
@@ -28,14 +30,10 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=fff"/>
 <br>
 
-#### UI Framework & Library
-
 <img src="https://img.shields.io/badge/shadcn_ui-000000?style=flat-square&logo=shadcnui&logoColor=fff"/>
 <img src="https://img.shields.io/badge/chakra_ui-319795?style=flat-square&logo=chakraui&logoColor=fff"/>
 <img src="https://img.shields.io/badge/react_hook_form-EC5990?style=flat-square&logo=reacthookform&logoColor=fff"/>
 <br>
-
-#### Style
 
 <img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=fff"/>
 <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=fff"/>
@@ -44,20 +42,16 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff"/>
 <br>
 
-#### Bundler & Package Manager
-
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=000"/>
 <img src="https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=fff"/>
 <img src="https://img.shields.io/badge/PNPM_Monorepo-F69220?style=flat-square&logo=pnpm&logoColor=fff"/>
 <br>
 
-#### Documentation & Test
 
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=fff"/>
 <br>
 
-#### CI / CD & Cloud Service
 
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Github_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=fff"/>
@@ -68,8 +62,6 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <!-- <img src="https://img.shields.io/badge/aws_ec2-FF9900?style=flat-square&logo=awsamplify&logoColor=fff"/> -->
 <!-- <img src="https://img.shields.io/badge/heroku-430098?style=flat-square&logo=heroku&logoColor=fff"/> -->
 <br>
-
-#### Server & Database
 
 <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Node.js-74b816?style=flat-square&logo=node.js&logoColor=fff"/>
@@ -90,13 +82,6 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=fff" />
 </h4>
 
-### 🌟 Open Source Contribution
-- https://github.com/toss/frontend-fundamentals/pull/61
-
-### 💡 Projects
-
-<!-- > **petBook** &nbsp; https://petbook.site/ \ -->
-> **OceanVue** &nbsp; https://oceanvue-steven-yn.koyeb.app/
 
 ### 🎥 Histories
 <!-- | 23.06 | Dear-My-Univerest | 개인 프로젝트 | -->
