@@ -123,9 +123,7 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <!-- > **petBook** &nbsp; https://petbook.site/ \ -->
 > **OceanVue** &nbsp; https://oceanvue-steven-yn.koyeb.app/
 
----
-
-### 🔖 More Info 
+### 🔖 More
 
 [Core Value: Teamwork, Purpose](https://whistle.to/tendency/43ae1836-b358-43b4-85ab-b826f91dd95c)
 
