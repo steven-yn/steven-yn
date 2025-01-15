@@ -118,16 +118,16 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 ### 🌟 Open Source Contribution
 - https://github.com/toss/frontend-fundamentals/pull/61
 
-### Projects
+### 💡 Projects
 
 <!-- > **petBook** &nbsp; https://petbook.site/ \ -->
 > **OceanVue** &nbsp; https://oceanvue-steven-yn.koyeb.app/
 
 ---
 
-### More Info 
+### 🔖 More Info 
 
-새로운 것에 호기심이 많고 도전을 항상 즐깁니다.
+[Core Value: Teamwork, Purpose](https://whistle.to/tendency/43ae1836-b358-43b4-85ab-b826f91dd95c)
 
 > **portfolio**　[Notion Portfolio](https://yoon0cean.notion.site/Junior-Frontend-Developer-Portfoilo-35564255600a45fc9f3e0207f2dc0ad3) \
 > **email** 　　 ssungyeon94@gmail.com \
@@ -136,5 +136,4 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=steven-yn&show_icons=true&theme=tokyonight) 
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dus1009)](https://solved.ac/dus1009/) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-yn&hide=jupyternotebook,java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-yn&hide=jupyternotebook,java&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
