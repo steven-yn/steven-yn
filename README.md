@@ -117,7 +117,7 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 </h4>
 -->
 
-### 🎥 Histories
+<!-- ### 🎥 Histories -->
 <!-- | 23.06 | Dear-My-Univerest | 개인 프로젝트 | -->
 <!-- | 23.06 | 스토리북과 함께하는 컴포넌트 주도 개발 | wanted 프리온보딩 6월 - 장현석 |
 | 23.04 | 프론트엔드 여행자를 위한 리액트 해부학 | wanted 프리온보딩 4월 - 강병진 |
@@ -125,7 +125,7 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 | 22.01 | Hyades 프로젝트 프론트엔드 개발 (FE Team Leader) | PSG - Hyades project |
 | 14.03 ~ 21.03 | 반도체 공학과 학사 졸업 | 청주대학교 | -->
 
-| Date | Contents | With |
+<!-- | Date | Contents | With |
 |:---:|:---:|:---:|
 | 24.01 | 데이터메이커 프론트엔드 파트 주임연구원 | Datamaker |
 | 23.08 | 2023 INFCON Offline Session Visit | Inflearn |
@@ -135,7 +135,7 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 | 22.04 ~ 23.06 | 다이닝코드 웹 프론트엔드 개발자 | DiningCode |
 | 22.01 ~ 22.02 | 바닐라 자바스크립트 를 사용한 SPA 게시판 개발 | ZUM Internet 과제전형 |
 | 21.07 ~ 22.11 | 파이썬과 R을 활용한 빅데이터 UI 개발자 과정 수료 (국비지원) | 안산 이젠컴퓨터아카데미 |
-| 21.02 ~ 21.04 | HW FPGA 개발자 | Neo Health Technology |
+| 21.02 ~ 21.04 | HW FPGA 개발자 | Neo Health Technology | -->
 <br>
 <br>
 
